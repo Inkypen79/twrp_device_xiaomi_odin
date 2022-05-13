@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_odinx.mk
+    $(LOCAL_DIR)/twrp_odin.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_odinx-user \
-    twrp_odinx-userdebug \
-    twrp_odinx-eng
+    twrp_odin-user \
+    twrp_odin-userdebug \
+    twrp_odin-eng
