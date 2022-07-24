@@ -1,0 +1,9 @@
+export ALLOW_MISSING_DEPENDENCIES=true
+
+export FOX_VERSION=R11.1
+export OF_MAINTAINER="Nicholas Magill (Inkypen)"
+export OF_SCREEN_H=2400
+export OF_ALLOW_DISABLE_NAVBAR=0
+export OF_PATCH_AVB20=1
+export OF_VIRTUAL_AB_DEVICE=1
+export TARGET_DEVICE_ALT="missi"
